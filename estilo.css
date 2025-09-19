@@ -1,0 +1,46 @@
+
+img{
+  margin: 8px;
+  width: 300px;
+  border-radius: 5px;
+  
+}
+
+body {
+  display: block;
+  margin: 8px;
+  background-image: url('https://ides.com.ar/wp-content/uploads/2024/03/ai-movil-v2.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  object-fit: cover;
+  margin-top: 100px;
+  margin: 0;
+  padding: 0;
+  font-family: 'Tahoma', sans-serif;
+  
+}
+
+div {
+  text-align: center;
+  border-top: 1px solid;
+  padding: 50px;
+  color: black;
+  text-decoration: none;
+  
+}
+a {
+  padding: 10px 30px;
+  background-color: #49B970;
+  font-size: 14px;
+  border-radius: 15px;
+  text-decoration: none;
+  color: black;
+  
+}
+
+p {
+  padding:15px 30px;
+  color:white;
+}
